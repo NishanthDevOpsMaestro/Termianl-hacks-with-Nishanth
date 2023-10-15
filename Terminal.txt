@@ -1,3 +1,5 @@
 THESE commands will SCARE your friends
 - brew install cmatrix
 and run cmatrix
+something marvels -
+docker run --rm -it bcbcarl/hollywood
