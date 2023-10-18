@@ -1,5 +1,9 @@
 THESE commands will SCARE your friends
+networkquality
 - brew install cmatrix
 and run cmatrix
 something marvels -
 docker run --rm -it bcbcarl/hollywood
+say -Talk with termianl
+networkquality - checking networking quality
+sips -c 100 500 sm_5afb099d007c6.jpg - image resize
